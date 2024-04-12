@@ -1,5 +1,4 @@
-# REIT
-Real Estate Investment Trust Analytics app
+# Real Estate Investment Trust Analytics app
 This Streamlit-based dashboard provides a platform for analyzing Real Estate Investment Trusts. It allows users to select a REIT symbol and view its historical price and volume, along with various financial metrics and geographical diversification information. Additionally, users can explore related news articles and access detailed financial data using interactive tables.
 
 ## Installation
@@ -19,7 +18,7 @@ streamlit run app.py
 
 Open your web browser and go to http://localhost:8501 to access the dashboard.
 
-##Usage
+## Usage
 Once the dashboard is running, you can interact with it using the following steps:
 
 1. Choose a REIT symbol from the sidebar dropdown menu.
