@@ -5,10 +5,10 @@ This Streamlit-based dashboard provides a platform for analyzing Real Estate Inv
 To run this dashboard locally, follow these steps:
 
 ## Clone this repository to your local machine:
-git clone https://github.com/yourusername/reit-stock-analysis-dashboard.git
+git clone https://github.com/rajarshimaity3235/REIT.git
 
 ## Navigate to the project directory:
-cd reit-stock-analysis-dashboard
+cd REIT
 
 ## Install the required Python dependencies:
 pip install -r requirements.txt
